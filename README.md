@@ -54,5 +54,3 @@ For any inquiries or further information, please contact:
 - myselfsalman28@gmail.com
 - https://www.linkedin.com/in/shaik-salman-052826234/
 ---
-
-This README provides a structured overview of the project and facilitates understanding and participation in the analysis of child welfare insights.
